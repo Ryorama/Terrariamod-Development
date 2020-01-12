@@ -1,0 +1,22 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "copperpickaxe",
+    "customModelName": "Normal",
+    "name": "Copper Pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:Terrariamod"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 5.0,
+    "attackSpeed": 2.8,
+    "enchantability": 2,
+    "damageVsEntity": 2.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false
+  }
+}

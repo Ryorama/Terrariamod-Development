@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:TungstenPickaxe"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TungstenBar"
+      },
+      {
+        "value": "CUSTOM:TungstenBar"
+      },
+      {
+        "value": "CUSTOM:TungstenBar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TWood"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TWood"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "tpr",
+    "namespace": "mod"
+  }
+}

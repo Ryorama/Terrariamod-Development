@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "loottable",
+  "definition": {
+    "type": "Block",
+    "pools": [
+      {
+        "minrolls": 1,
+        "maxrolls": 5,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:TWood"
+            },
+            "weight": 500
+          }
+        ]
+      }
+    ],
+    "name": "blocks/oak_log",
+    "namespace": "minecraft"
+  }
+}

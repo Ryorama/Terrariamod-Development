@@ -1,0 +1,26 @@
+{
+  "group": "terrariamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "terrariamod:copperbar"
+    },
+    "2": {
+      "item": "terrariamod:copperbar"
+    },
+    "3": {
+      "item": "terrariamod:copperbar"
+    },
+    "5": {
+      "item": "terrariamod:copperbar"
+    }
+  },
+  "result": {
+    "item": "terrariamod:copperaboots",
+    "count": 1
+  }
+}

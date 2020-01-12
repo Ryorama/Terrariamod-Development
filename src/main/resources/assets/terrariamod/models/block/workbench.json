@@ -1,0 +1,9 @@
+{
+  "parent": "terrariamod:custom/workbench",
+  "textures": {
+    "all": "terrariamod:blocks/wbw",
+    "particle": "terrariamod:blocks/wbw",
+    "0": "terrariamod:blocks/wbw",
+    "missing": "terrariamod:blocks/wbw"
+  }
+}

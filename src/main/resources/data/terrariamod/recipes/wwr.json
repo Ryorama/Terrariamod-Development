@@ -1,0 +1,42 @@
+{
+  "group": "terrariamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "terrariamod:tstone"
+    },
+    "1": {
+      "item": "terrariamod:tstone"
+    },
+    "2": {
+      "item": "terrariamod:tstone"
+    },
+    "3": {
+      "item": "terrariamod:twood"
+    },
+    "4": {
+      "item": "terrariamod:tstone"
+    },
+    "5": {
+      "item": "terrariamod:twood"
+    },
+    "6": {
+      "item": "terrariamod:twood"
+    },
+    "7": {
+      "item": "terrariamod:twood"
+    },
+    "8": {
+      "item": "terrariamod:twood"
+    }
+  },
+  "result": {
+    "item": "terrariamod:woodenwall",
+    "count": 5
+  }
+}

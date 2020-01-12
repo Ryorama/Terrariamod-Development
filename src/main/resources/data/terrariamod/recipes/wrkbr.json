@@ -1,0 +1,26 @@
+{
+  "group": "terrariamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "terrariamod:twood"
+    },
+    "1": {
+      "item": "terrariamod:twood"
+    },
+    "2": {
+      "item": "terrariamod:twood"
+    },
+    "3": {
+      "item": "terrariamod:twood"
+    }
+  },
+  "result": {
+    "item": "terrariamod:workbench",
+    "count": 1
+  }
+}

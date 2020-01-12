@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "terrariamod:blocks/crimsonlog_top",
+    "up": "terrariamod:blocks/crimsonlog_top",
+    "north": "terrariamod:blocks/crimsonlog_side",
+    "east": "terrariamod:blocks/crimsonlog_side",
+    "south": "terrariamod:blocks/crimsonlog_side",
+    "west": "terrariamod:blocks/crimsonlog_side",
+    "particle": "terrariamod:blocks/crimsonlog_top"
+  }
+}

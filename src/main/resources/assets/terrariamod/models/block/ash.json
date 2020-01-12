@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terrariamod:blocks/ash_block",
+    "particle": "terrariamod:blocks/ash_block"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "terrariamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 12",
+    "3 5",
+    " 78"
+  ],
+  "key": {
+    "1": {
+      "item": "terrariamod:copperbar"
+    },
+    "2": {
+      "item": "minecraft:string"
+    },
+    "3": {
+      "item": "terrariamod:copperbar"
+    },
+    "5": {
+      "item": "minecraft:string"
+    },
+    "7": {
+      "item": "terrariamod:copperbar"
+    },
+    "8": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "terrariamod:copperbow",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "terrariamod:blocks/corruptedlog_top",
+    "up": "terrariamod:blocks/corruptedlog_top",
+    "north": "terrariamod:blocks/corruptedlog_side",
+    "east": "terrariamod:blocks/corruptedlog_side",
+    "south": "terrariamod:blocks/corruptedlog_side",
+    "west": "terrariamod:blocks/corruptedlog_side",
+    "particle": "terrariamod:blocks/corruptedlog_top"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "group": "terrariamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "terrariamod:twood",
+    "count": 5
+  }
+}

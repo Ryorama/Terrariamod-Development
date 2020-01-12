@@ -1,0 +1,22 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "coppersword",
+    "customModelName": "Normal",
+    "name": "Copper Sword",
+    "creativeTab": {
+      "value": "CUSTOM:Terrariamod"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 8.0,
+    "attackSpeed": 2.8,
+    "enchantability": 2,
+    "damageVsEntity": 9.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "terrariamod:blocks/ter_shroom",
+    "particle": "terrariamod:blocks/ter_shroom"
+  }
+}

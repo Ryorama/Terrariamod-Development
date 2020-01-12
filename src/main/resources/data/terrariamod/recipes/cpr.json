@@ -1,0 +1,30 @@
+{
+  "group": "terrariamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "terrariamod:copperbar"
+    },
+    "1": {
+      "item": "terrariamod:copperbar"
+    },
+    "2": {
+      "item": "terrariamod:copperbar"
+    },
+    "4": {
+      "item": "terrariamod:twood"
+    },
+    "7": {
+      "item": "terrariamod:twood"
+    }
+  },
+  "result": {
+    "item": "terrariamod:copperpick",
+    "count": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:Copperpick"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Copperbar"
+      },
+      {
+        "value": "CUSTOM:Copperbar"
+      },
+      {
+        "value": "CUSTOM:Copperbar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TWood"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TWood"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "cpr",
+    "namespace": "mod"
+  }
+}

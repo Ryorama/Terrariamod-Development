@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 5,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:WoodenWall"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TStone"
+      },
+      {
+        "value": "CUSTOM:TStone"
+      },
+      {
+        "value": "CUSTOM:TStone"
+      },
+      {
+        "value": "CUSTOM:TWood"
+      },
+      {
+        "value": "CUSTOM:TStone"
+      },
+      {
+        "value": "CUSTOM:TWood"
+      },
+      {
+        "value": "CUSTOM:TWood"
+      },
+      {
+        "value": "CUSTOM:TWood"
+      },
+      {
+        "value": "CUSTOM:TWood"
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "wwr",
+    "namespace": "mod"
+  }
+}

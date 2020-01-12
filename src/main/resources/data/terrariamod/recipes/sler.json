@@ -1,0 +1,28 @@
+{
+  "group": "terrariamod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrariamod:lens"
+    },
+    {
+      "item": "terrariamod:lens"
+    },
+    {
+      "item": "terrariamod:lens"
+    },
+    {
+      "item": "terrariamod:lens"
+    },
+    {
+      "item": "terrariamod:lens"
+    },
+    {
+      "item": "terrariamod:lens"
+    }
+  ],
+  "result": {
+    "item": "terrariamod:suspiciouslookingeye",
+    "count": 1
+  }
+}

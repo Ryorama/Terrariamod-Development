@@ -1,0 +1,8 @@
+{
+  "parent": "terrariamod:custom/wall_wood",
+  "textures": {
+    "all": "terrariamod:blocks/planked_wall",
+    "particle": "terrariamod:blocks/planked_wall",
+    "0": "terrariamod:blocks/planked_wall"
+  }
+}

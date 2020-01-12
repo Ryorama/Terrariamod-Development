@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terrariamod:blocks/silb",
+    "particle": "terrariamod:blocks/silb"
+  }
+}

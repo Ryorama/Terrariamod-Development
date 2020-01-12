@@ -1,0 +1,23 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "tungstenpickaxe",
+    "customModelName": "Normal",
+    "name": "Tungsten Pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:Terrariamod"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 4.0,
+    "attackSpeed": 2.8,
+    "enchantability": 2,
+    "damageVsEntity": 1.5,
+    "usageCount": 400,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

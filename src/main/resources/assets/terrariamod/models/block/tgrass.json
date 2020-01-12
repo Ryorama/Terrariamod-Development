@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "terrariamod:blocks/dirt",
+    "up": "terrariamod:blocks/grass_top",
+    "north": "terrariamod:blocks/grass_side",
+    "east": "terrariamod:blocks/grass_side",
+    "south": "terrariamod:blocks/grass_side",
+    "west": "terrariamod:blocks/grass_side",
+    "particle": "terrariamod:blocks/dirt"
+  }
+}

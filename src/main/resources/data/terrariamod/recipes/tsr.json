@@ -1,0 +1,24 @@
+{
+  "group": "terrariamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "terrariamod:tungstenbar"
+    },
+    "1": {
+      "item": "terrariamod:tungstenbar"
+    },
+    "2": {
+      "item": "terrariamod:twood"
+    }
+  },
+  "result": {
+    "item": "terrariamod:tungstensword",
+    "count": 1
+  }
+}

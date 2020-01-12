@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:CopperA.helmet"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Copperbar"
+      },
+      {
+        "value": "CUSTOM:Copperbar"
+      },
+      {
+        "value": "CUSTOM:Copperbar"
+      },
+      {
+        "value": "CUSTOM:Copperbar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Copperbar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "chr",
+    "namespace": "mod"
+  }
+}

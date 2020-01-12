@@ -1,0 +1,23 @@
+{
+  "group": "terrariamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass"
+    },
+    "2": {
+      "item": "minecraft:glass"
+    },
+    "4": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "terrariamod:bottle",
+    "count": 3
+  }
+}

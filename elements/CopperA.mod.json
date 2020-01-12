@@ -1,0 +1,47 @@
+{
+  "_fv": 5,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "copperhelmet",
+    "enableBody": true,
+    "textureBody": "copperchestplate",
+    "enableLeggings": true,
+    "textureLeggings": "coppergreaves",
+    "enableBoots": true,
+    "textureBoots": "copperboots",
+    "creativeTab": {
+      "value": "CUSTOM:Terrariamod"
+    },
+    "armorTextureFile": "copper_",
+    "helmetName": "Copper Helmet",
+    "bodyName": "Copper Body",
+    "leggingsName": "Copper Leggings",
+    "bootsName": "Copper Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

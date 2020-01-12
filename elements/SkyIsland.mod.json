@@ -1,0 +1,17 @@
+{
+  "_fv": 5,
+  "_type": "structure",
+  "definition": {
+    "structure": "skyisland",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 3500,
+    "spawnLocation": "Air",
+    "spawnHeightOffset": 30,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "terrariamod:blocks/chestnut_log_top",
+    "up": "terrariamod:blocks/chestnut_log_top",
+    "north": "terrariamod:blocks/chestnut_log",
+    "east": "terrariamod:blocks/chestnut_log",
+    "south": "terrariamod:blocks/chestnut_log",
+    "west": "terrariamod:blocks/chestnut_log",
+    "particle": "terrariamod:blocks/chestnut_log_top"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "terrariamod:blocks/daybloom_2",
+    "particle": "terrariamod:blocks/daybloom_2"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "terrariamod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "terrariamod:copperbar"
+    },
+    "2": {
+      "item": "terrariamod:copperbar"
+    },
+    "3": {
+      "item": "terrariamod:copperbar"
+    },
+    "4": {
+      "item": "terrariamod:copperbar"
+    },
+    "5": {
+      "item": "terrariamod:copperbar"
+    },
+    "6": {
+      "item": "terrariamod:copperbar"
+    },
+    "7": {
+      "item": "terrariamod:copperbar"
+    },
+    "8": {
+      "item": "terrariamod:copperbar"
+    }
+  },
+  "result": {
+    "item": "terrariamod:copperabody",
+    "count": 1
+  }
+}

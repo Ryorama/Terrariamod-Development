@@ -1,0 +1,19 @@
+{
+  "group": "terrariamod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "terrariamod:mush"
+    },
+    {
+      "item": "terrariamod:gel"
+    },
+    {
+      "item": "terrariamod:bottle"
+    }
+  ],
+  "result": {
+    "item": "terrariamod:lesserhealingpotion",
+    "count": 2
+  }
+}
