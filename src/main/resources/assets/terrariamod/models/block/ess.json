@@ -1,0 +1,10 @@
+{
+  "parent": "terrariamod:custom/enchantedswordstone",
+  "textures": {
+    "all": "terrariamod:blocks/stone2",
+    "particle": "terrariamod:blocks/stone2",
+    "0": "terrariamod:blocks/sword",
+    "1": "terrariamod:blocks/stone2",
+    "missing": "terrariamod:blocks/"
+  }
+}

@@ -41,6 +41,9 @@ public class MCreatorEOCS extends Elementsterrariamod.ModElement {
 		int y = (int) dependencies.get("y");
 		int z = (int) dependencies.get("z");
 		World world = (World) dependencies.get("world");
+		world.playSound((PlayerEntity) null, x, y, z,
+				(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("terrariamod:boss_summon")),
+				SoundCategory.NEUTRAL, (float) 1, (float) 1);
 		System.out.println("Eye Of Cuthulu has awoken");
 		if (entity instanceof PlayerEntity)
 			((PlayerEntity) entity).inventory.clearMatchingItems(
@@ -50,8 +53,5 @@ public class MCreatorEOCS extends Elementsterrariamod.ModElement {
 			entityToSpawn.setLocationAndAngles(x, y, z, world.rand.nextFloat() * 360F, 0);
 			world.addEntity(entityToSpawn);
 		}
-		world.playSound((PlayerEntity) null, x, y, z,
-				(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("terrariamod:boss_summon")),
-				SoundCategory.NEUTRAL, (float) 1, (float) 1);
 	}
 }

@@ -1,4 +1,5 @@
 {
+  "block.terrariamod.ess": "ESS",
   "block.terrariamod.tstone": "Stone",
   "itemGroup.tabterrariamod": "Terrariamod",
   "block.terrariamod.copperore": "Copper Ore",
@@ -48,6 +49,7 @@
   "item.terrariamod.coppersword": "Copper Sword",
   "block.terrariamod.tdirt": "Dirt",
   "entity.terrariamod.greenslime": "Green Slime",
+  "item.terrariamod.enchantedswor": "Enchanted Sword",
   "item.terrariamod.copperpick": "Copper Pickaxe",
   "item.terrariamod.copperaboots": "Copper Boots",
   "item.terrariamod.demoneye": "Demon Eye Spawn Egg",
